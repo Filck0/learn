@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: backwork
+  datasource:
+    url: jdbc:mysql://101.200.136.172:3306/incubation
+    username: root
+    password: "@Jxz123456"
